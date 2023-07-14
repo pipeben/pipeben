@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pipeben
 - 👀 I’m interested in coding algorithms for life sciences
-- 🌱 I’m currently learning how to create an R-package
 - 💞️ I’m looking to collaborate on building packages and running analysis
 - 📫 How to reach me ... pipeben@gmail.com
 
